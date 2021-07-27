@@ -6,7 +6,7 @@ dept_name VARCHAR
 employees
 -
 emp_no PK INT
-emp_title VARCHAR
+emp_title INT
 birth_date DATE 
 first_name VARCHAR
 last_name VARCHAR
